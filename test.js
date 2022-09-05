@@ -1,0 +1,3 @@
+function tetst() {
+  console.log()
+}

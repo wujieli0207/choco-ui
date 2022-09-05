@@ -1,0 +1,24 @@
+{
+  "name": "@choco-ui/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "module": "es/index.js",
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "choco-ui",
+    "vue3组件库"
+  ],
+  "author": "wujieli",
+  "license": "MIT",
+  "dependencies": {
+    "@choco-ui/utils": "workspace:^1.0.0"
+  }
+}
